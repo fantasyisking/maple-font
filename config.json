@@ -3,7 +3,7 @@
   "family_name": "Maple Mono",
   "use_hinted": true,
   "pool_size": 4,
-  "enable_ligature": true,
+  "enable_ligature": false,
   "ttfautohint_param": {},
   "github_mirror": "github.com",
   "infinite_arrow": null,
@@ -18,10 +18,9 @@
     "bold": 700,
     "extrabold": 800
   },
-  "line_height": 1.0,
-  "width": "default",
+  "line_height": 1,
   "feature_freeze": {
-    "cv01": "ignore",
+    "cv01": "enable",
     "cv02": "ignore",
     "cv03": "ignore",
     "cv04": "ignore",
